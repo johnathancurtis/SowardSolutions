@@ -1,6 +1,8 @@
 # SowardSolutions
 This is a build of the demo MVC application from Adam Freeman's ASP.Net Core 3 text book. This is for demonstration purpose. 
 
+## Link 
+[https://www.apress.com/gp/book/9781484254394]
 ## Build Script
 
         dotnet new globaljson --sdk-version 5.0.103 --output SowardSolutions/ConsultingProducts
