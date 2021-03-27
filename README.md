@@ -16,3 +16,11 @@ This is a build of the demo MVC application from Adam Freeman's ASP.Net Core 3 t
 ## Part 2
 ![Part2](Archive/LAB_1B_Part2.PNG)
 
+## Part 3
+What is Entity Framework?
+What is a Connection String?
+What is a Database Context?
+What is a Model Repository?
+Migration vs Scaffolding?
+Seeding the database
+
