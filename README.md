@@ -14,4 +14,5 @@ This is a build of the demo MVC application from Adam Freeman's ASP.Net Core 3 t
         dotnet add SowardSolutions/ConsultingProducts.Tests reference SowardSolutions/ConsultingProducts 
         
 ## Part 2
+[Part 2](Archive/LAB 1B Part 2.PNG)
 
