@@ -12,3 +12,6 @@ This is a build of the demo MVC application from Adam Freeman's ASP.Net Core 3 t
         dotnet new xunit -o SowardSolutions/ConsultingProducts.Tests --framework net5.0
         dotnet sln SowardSolutions add SowardSolutions/ConsultingProducts.Tests 
         dotnet add SowardSolutions/ConsultingProducts.Tests reference SowardSolutions/ConsultingProducts 
+        
+## Part 2
+
