@@ -41,3 +41,4 @@ Scaffolding is the compiler creating code for cshtml and html documents with the
 Totally forgot to snip seeding the database.
 
 ## Part 4
+![Part4]
