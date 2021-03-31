@@ -1,19 +1,34 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ConsultingProducts.Models;
+using System.Linq;
+using ConsultingProducts.Models.ViewModels;
 
 namespace ConsultingProducts.Controllers
 {
     public class HomeController : Controller
     {
         private IStoreRepository repository;
+        public int PageSize = 4;
 
         public HomeController(IStoreRepository repo)
         {
             repository = repo;
         }
-        public IActionResult Index()
+        public ViewResult Index(int productPage = 1)
+        => View(new ProductsListViewModel
         {
-            return View(repository.Products);
-        }  
+        Products = repository.Products
+            .OrderBy(p => p.ProductID)
+            .Skip((productPage - 1) * PageSize)
+            .Take(PageSize),
+        PagingInfo = new PagingInfo
+        {
+            CurrentPage = productPage,
+            ItemsPerPage = PageSize,
+            TotalItems = repository.Products.Count()
+        }
+        });
     }
+
+    
 }
