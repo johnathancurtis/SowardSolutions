@@ -19,13 +19,30 @@ This is a build of the demo MVC application from Adam Freeman's ASP.Net Core 3 t
 ## Part 3
 What is Entity Framework?
 
+Enity Framework is Microsoft's Object to relational mapping (ORM) framework. 
+It is used to link Dbs and web apps together.
+
 What is a Connection String?
+
+A connection string is a string created to connect to SQL databases from the code itself.
+It contains the DB used, and the login for the DB.
 
 What is a Database Context?
 
+DB Context is the mapping of a specific DB with a schema the program can understand.
+
 What is a Model Repository?
+
+A model repository is used to reduce repetition in your DB, and is used to retrieve a sequence of DB objects.
+This sequence can be queried, and any class that depends on the model repository can utilize these features.
 
 Migration vs Scaffolding?
 
-Seeding the database
+Migration is the compiler creating DB tables for you with the context provided.
+Scaffolding is the compiler creating code for cshtml and html documents with the context.
 
+## Part 3
+Totally forgot to snip seeding the database.
+
+## Part 4
+![Part4](Archive/part4.PNG)
