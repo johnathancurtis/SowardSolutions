@@ -57,5 +57,5 @@ Divided the products by type
 ![Part5](Archive/Ch8Soccer.PNG)
 
 ## Part 6
-Started to builf the first parts of a shopping cart, you'll notice in the prior pictures that each product had an add to cart button.
+Started to build the first parts of a shopping cart, you'll notice in the prior pictures that each product has an add to cart button. The following page shows the shopping cart.
 ![Part5](Archive/Ch8_ShoppingCart.PNG)
