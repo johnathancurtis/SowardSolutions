@@ -46,3 +46,16 @@ Totally forgot to snip seeding the database.
 
 ## Part 4
 ![Part4](Archive/part4.PNG)
+
+## Part 5
+![Part5](Archive/CH8_HomePageStore.PNG)
+Divided the products by type 
+
+![Part5](Archive/Ch8Soccer.PNG)
+![Part5](Archive/Ch8Watersports.PNG)
+![Part5](Archive/Ch8Chess.PNG)
+![Part5](Archive/Ch8Soccer.PNG)
+
+## Part 6
+Started to builf the first parts of a shopping cart, you'll notice in the prior pictures that each product had an add to cart button.
+![Part5](Archive/Ch8_ShoppingCart.PNG)
