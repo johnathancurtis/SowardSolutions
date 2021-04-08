@@ -59,3 +59,7 @@ Divided the products by type
 ## Part 6
 Started to build the first parts of a shopping cart, you'll notice in the prior pictures that each product has an add to cart button. The following page shows the shopping cart.
 ![Part5](Archive/Ch8_ShoppingCart.PNG)
+
+## Part 7 
+Cart is complete and is able to add and remove items to purchase
+
