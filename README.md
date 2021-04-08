@@ -64,3 +64,15 @@ Started to build the first parts of a shopping cart, you'll notice in the prior 
 Cart is complete and is able to add and remove items to purchase
 ![Part](Archive/Ch9Part7.PNG)
 
+## Part 8
+You can now see a subtotal of the purchase in the top right of the application. 
+![Part](Archive/Ch9part8subtotal.PNG)
+
+##Part 9
+After clicking checkout in cart, you proceed to checkout screen
+![Part](Archive/Ch9CheckoutScreen.PNG)
+
+## Part 10 
+Then clicking "complete order" sends you to the thank you screen
+![Part](Archive/Ch9thankyouscreen.PNG)
+
