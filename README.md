@@ -68,11 +68,15 @@ Cart is complete and is able to add and remove items to purchase
 You can now see a subtotal of the purchase in the top right of the application. 
 ![Part](Archive/CH9part8subtotal.PNG)
 
-##Part 9
+## Part 9
+Able to generate a message thata asks the user to enter required information before checking out.
+![Part](Archive/Ch9errormessage.PNG)
+
+## Part 10
 After clicking checkout in cart, you proceed to checkout screen
 ![Part](Archive/ch9CheckoutScreen.PNG)
 
-## Part 10 
+## Part 11 
 Then clicking "complete order" sends you to the thank you screen
 ![Part](Archive/ch9thankyouscreen.PNG)
 
