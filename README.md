@@ -62,4 +62,5 @@ Started to build the first parts of a shopping cart, you'll notice in the prior 
 
 ## Part 7 
 Cart is complete and is able to add and remove items to purchase
+![Part](Archive/Ch9Part7.PNG)
 
