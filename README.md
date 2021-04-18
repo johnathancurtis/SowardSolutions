@@ -81,18 +81,15 @@ Then clicking "complete order" sends you to the thank you screen
 ![Part](Archive/ch9thankyouscreen.PNG)
 
 ## Part 12 
+Added Admin Page with details to Products
+![Part](Archive/CH10_SportsStoreAdministration.PNG)
 
 ## Part 13 
+Added the details page to the products
+![Part](Archive/CH10_Admindetails.PNG)
 
 ## Part 14 
-
-## Part 15 
-
-## Part 16 
-
-## Part 17 
-
-## Part 18 
-
-
+Added the edit and delete options
+![Part](Archive/ch10_editor.PNG)
+![Part](Archive/CH10-delete.PNG)
 
