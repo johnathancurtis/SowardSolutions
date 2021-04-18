@@ -80,3 +80,19 @@ After clicking checkout in cart, you proceed to checkout screen
 Then clicking "complete order" sends you to the thank you screen
 ![Part](Archive/ch9thankyouscreen.PNG)
 
+## Part 12 
+
+## Part 13 
+
+## Part 14 
+
+## Part 15 
+
+## Part 16 
+
+## Part 17 
+
+## Part 18 
+
+
+
